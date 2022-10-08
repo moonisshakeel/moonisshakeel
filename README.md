@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moonisshakeel
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Time Series Faeture Engineering and LSTM
+- 🌱 I’m currently learning Time Series Feature Engineering and LSTM
 - 💞️ I’m looking to collaborate on Machine Laerning Projects
 - 📫 How to reach me moonis.shakeel@gmail.com
 
